@@ -59,11 +59,11 @@ The site is being reconstructed
 
 💰 Feeling Generous? Help Support Me 💰
 
-💻 # FOUNDER OF THE PHISHING ACADEMY -  <a href="https://t.me/injectexpdev" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+💻 # FOUNDER OF THE INJECT[EXP] TG CHANNEL -  <a href="https://t.me/injectexpdev" target="_blank"><img src="https://img.shields.io/badge/inject[exp]-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 My Projects 📝
 
-💻 # PHISHSITE-EVILGINX2 - This is a collection of phishing sites I have designed for perfect phishing.
+💻 # PHISHLET-EVILGINX2 - This is a collection of phishing sites I have designed for perfect phishing.
 
 💻 # TEMPLATES-MODLISHKA - Collection of cryptocurrency phishing sites.
 
