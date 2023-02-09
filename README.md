@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/inject.png" alt="animated" />
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/s.jpg" alt="animated" />
 </p>
 
 <h2 align="center"> SKILLS</h2>
