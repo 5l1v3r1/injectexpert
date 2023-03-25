@@ -16,6 +16,10 @@
 </a> <a href="https://injectexp.dev" target="_blank"><img src="https://img.shields.io/badge/inject-exp-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
+<p align="center">
+tox:340EF1DCEEC5B395B9B45963F945C00238ADDEAC87C117F64F46206911474C61981D96420B72
+</p>
+
 <h2 align="center"> SKILLS</h2>
 <p align="center">
 
@@ -42,10 +46,8 @@
 <a href="https://twitter.com/MetthewKals" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://t.me/inject_exp" target="_blank"><img src="https://img.shields.io/badge/telegram-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<p align="center">
 
-tox:340EF1DCEEC5B395B9B45963F945C00238ADDEAC87C117F64F46206911474C61981D96420B72
-</p>
+
 
 ## &#x1f4c8; GITHUB STATS
 
