@@ -39,7 +39,7 @@ tox:340EF1DCEEC5B395B9B45963F945C00238ADDEAC87C117F64F46206911474C61981D96420B72
 </a>
 
 <p align="center">
-<a href="https://t.me/injectexpdev" target="_blank"><img src="https://img.shields.io/badge/ACADEMY-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/injectexpdev" target="_blank"><img src="https://img.shields.io/badge/CHANNEL-%23239BCD.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 <h2 align="center">CONTACT ME</h2>
 <p align="center">
