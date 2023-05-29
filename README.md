@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/s.jpg" alt="animated" />
+  <img src="https://github.com/injectexpert/injectexpert/blob/main/img/infograph.png" alt="animated" />
 </p>
 
 <h3 align="center">ANONYMOUS SERVERS FOR TEAMS WITH C&C (С2) INFRASTRUCTURE</a> </h3> 
